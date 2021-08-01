@@ -1,5 +1,4 @@
-## Salveee, me chamo Leonardo Souza, 
-## Sou Back-End developer porém curto o lado do Front-End também! :)
+Salveee, me chamo Leonardo Souza, sou Back-End developer porém curto o lado do Front-End também! :)
 
  <div>
   <a href="https://github.com/LeonardoSouza97">
