@@ -1,4 +1,6 @@
-## Salveee, me chamo Leonardo Souza, sou Back-End developer porém curto o lado do Front-End também! :)
+## Salveee, me chamo Leonardo Souza, 
+Sou Back-End developer porém curto o lado do Front-End também! :)
+
  <div>
   <a href="https://github.com/LeonardoSouza97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSouza97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
